@@ -3,7 +3,6 @@ CloudWeathers is a basic weather forecast app that provides users with weather i
 
 ![Screenshot 2023-07-15 185753](https://github.com/sumitgirwal/CloudWeathers/assets/64283478/0d940e89-6eea-4b7f-8bf9-341b9bf8bdd8)
 
-Live Demo: https://youtu.be/TlxnYcFuMH0
 
 
 #### Built with
